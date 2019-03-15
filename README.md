@@ -1,4 +1,5 @@
-# Synergy Core https://ci.appveyor.com/api/projects/status/s35ibcrsd9bvo4r7?svg=true
+# Synergy Core [![Build status](https://ci.appveyor.com/api/projects/status/s35ibcrsd9bvo4r7/branch/master?svg=true)](https://ci.appveyor.com/project/morapet/synergy-core/branch/master)
+
 
 This is the open source core component of Synergy, a keyboard and mouse sharing tool.
 
