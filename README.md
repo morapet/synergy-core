@@ -1,4 +1,4 @@
-# Synergy Core
+# Synergy Core https://ci.appveyor.com/api/projects/status/s35ibcrsd9bvo4r7?svg=true
 
 This is the open source core component of Synergy, a keyboard and mouse sharing tool.
 
